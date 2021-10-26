@@ -9,7 +9,6 @@
             "homepage": "https://github.com/trilobit-gmbh"
         }
     ],
-    "version": "1.0.0",
     "require": {
         "contao-components/installer": "^1.0.9"
     }
