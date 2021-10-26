@@ -1,0 +1,16 @@
+{
+    "name": "trilobit-gmbh/trilobit-chosen",
+    "type": "contao-component",
+    "description": "Chosen integration for Contao Open Source CMS",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "trilobit GmbH",
+            "homepage": "https://github.com/trilobit-gmbh"
+        }
+    ],
+    "version": "1.0.0",
+    "require": {
+        "contao-components/installer": "^1.0.9"
+    }
+}

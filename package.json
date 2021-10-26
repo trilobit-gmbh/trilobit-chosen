@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chosen-js": "^1.8.7"
+  },
+  "scripts": {
+    "copy": "rm -rf dist && cp -ru \"node_modules/chosen-js/\" \"dist/\""
+  }
+}
